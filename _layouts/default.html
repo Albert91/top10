@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    {% include hero.html %}
+
+    {% include action_points.html %}
+
+    {% include action_bar.html %}
+
+    <section class="container">
+      {{ content }}
+    </section>
+
+    {% include footer.html %}
+
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+  </body>
+
+</html>
