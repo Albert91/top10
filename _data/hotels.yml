@@ -1,13 +1,13 @@
 -
-  title: "Lindner Hotel & City Lounge"
-  location: "Antwerpen (BE)"
-  tagline: "4-STERREN HOTEL IN HARTJE ANTWERPEN"
-  image: "Lindner.jpg"
-  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=482&country=4&la=2&actie=WLK-FJSYK&autoLogin=true"
+  title: "Bilderberg Hotel de Buunderkamp"
+  location: "Wolfheze"
+  tagline: "ONGESTOORD GENIETEN"
+  image: "Buunderkamp.jpg"
+  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=430&country=1&la=2&actie=WLK-FJSYK&autoLogin=true"
   points:
     - "2 Nachten incl. ontbijt voor 2 pers"
-    - "Gebruik van Fitness en Sauna"
-    - "Naast Antwerpen CS"
+    - "3-Gangendiner voor 2 pers"
+    - "Gebruik van Fietsen en/of Wellness"
 -
   title: "Herberg de Gouden Leeuw"
   location: "Bronkhorst"
@@ -19,15 +19,15 @@
     - "3-Gangendiner voor 2 pers"
     - "4-Gangendiner voor 2 pers"
 -
-  title: "Bilderberg Hotel de Buunderkamp"
-  location: "Wolfheze"
-  tagline: "ONGESTOORD GENIETEN"
-  image: "Buunderkamp.jpg"
-  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=430&country=1&la=2&actie=WLK-FJSYK&autoLogin=true"
+  title: "Thermae 2OOO"
+  location: "Valkenburg aan de Geul"
+  tagline: "WELLNESSCENTRUM MET 4-STERRENHOTEL"
+  image: "Thermea2000.jpg"
+  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=127&country=1&la=2&actie=WLK-FJSYK&autoLogin=true"
   points:
     - "2 Nachten incl. ontbijt voor 2 pers"
-    - "3-Gangendiner voor 2 pers"
-    - "Gebruik van Fietsen en/of Wellness"
+    - "3 Dagen gebruik van Wellness"
+    - "60.000m2 Wellness (binnen en buiten)"
 -
   title: "Grand Hotel Amrâth Kurhaus"
   location: "Scheveningen"
@@ -38,26 +38,6 @@
     - "1 Nacht incl. ontbijt voor 2 pers"
     - "3-Gangendiner voor 2 pers"
     - "Late check-out"
--
-  title: "Post-Plaza Hotel & Grand Café"
-  location: "Leeuwarden"
-  tagline: "HIP HOTEL IN HISTORISCH LEEUWARDEN"
-  image: "Post-plaza.jpg"
-  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=207&country=1&la=2&actie=WLK-FJSYK&autoLogin=true"
-  points:
-    - "2 Nachten incl. ontbijt voor 2 pers"
-    - "3-Gangendiner voor 2 pers"
-    - "Gebruik van Wellness"
--
-  title: "Huis ten Wolde"
-  location: "De Bult"
-  tagline: "ART & WELLNESS HOTEL"
-  image: "Huis-ten-wolde.jpg"
-  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=448&country=1&la=2&actie=WLK-FJSYK&autoLogin=true"
-  points:
-    - "3 Nachten incl. ontbijt voor 2 pers"
-    - "Facial of Massage voor 2 pers"
-    - "Gebruik van Wellness"
 -
   title: "Hampshire Paping en Spa"
   location: "Ommen"
@@ -79,6 +59,16 @@
     - "Late check-out"
     - "Gebruik van Wellness"
 -
+  title: "Post-Plaza Hotel & Grand Café"
+  location: "Leeuwarden"
+  tagline: "HIP HOTEL IN HISTORISCH LEEUWARDEN"
+  image: "Post-plaza.jpg"
+  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=207&country=1&la=2&actie=WLK-FJSYK&autoLogin=true"
+  points:
+    - "2 Nachten incl. ontbijt voor 2 pers"
+    - "3-Gangendiner voor 2 pers"
+    - "Gebruik van Wellness"
+-
   title: "Hampshire Hotel Zuid-Drenthe"
   location: "Erica"
   tagline: "WEGDROMEN IN DRENTHE"
@@ -89,12 +79,22 @@
     - "4-Gangendiner voor 2 pers"
     - "Gebruik van Wellness"
 -
-  title: "Thermae 2OOO"
-  location: "Valkenburg aan de Geul"
-  tagline: "WELLNESSCENTRUM MET 4-STERRENHOTEL"
-  image: "Thermea2000.jpg"
-  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=127&country=1&la=2&actie=WLK-FJSYK&autoLogin=true"
+  title: "Lindner Hotel & City Lounge"
+  location: "Antwerpen (BE)"
+  tagline: "4-STERREN HOTEL IN HARTJE ANTWERPEN"
+  image: "Lindner.jpg"
+  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=482&country=4&la=2&actie=WLK-FJSYK&autoLogin=true"
   points:
     - "2 Nachten incl. ontbijt voor 2 pers"
-    - "3 Dagen gebruik van Wellness"
-    - "60.000m2 Wellness (binnen en buiten)"
+    - "Gebruik van Fitness en Sauna"
+    - "Naast Antwerpen CS"
+-
+  title: "Huis ten Wolde"
+  location: "De Bult"
+  tagline: "ART & WELLNESS HOTEL"
+  image: "Huis-ten-wolde.jpg"
+  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=448&country=1&la=2&actie=WLK-FJSYK&autoLogin=true"
+  points:
+    - "3 Nachten incl. ontbijt voor 2 pers"
+    - "Facial of Massage voor 2 pers"
+    - "Gebruik van Wellness"
