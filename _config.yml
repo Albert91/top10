@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 email: info@luxuryhotelcompany.com
-description: ''
-baseurl: ''
+description: 
+baseurl: 
 url: http://top10.luxuryhotelcompany.com
 markdown: kramdown
