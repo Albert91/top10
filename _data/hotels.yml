@@ -1,22 +1,4 @@
 ---
-- title: Grand hotel Ter Duin
-  location: Burgh-Haamstede
-  tagline: CULINAIR AAN HET STRAND
-  image: "/Terduintussenpagina.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=432&country=1&la=2&autoLogin=true&actie=
-  points:
-  - 2 Nachten incl. ontbijt
-  - 3-Gangen diner voor 2 pers.
-  - Toegang tot de luxe Spa en Wellness
-- title: 'Hampshire hotel Leiden '
-  location: Leiden
-  tagline: 'CULINAIR STADSARRANGEMENT '
-  image: "/GebouwHFLeidentussenpagina-4.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=499&country=1&la=2&autoLogin=true&actie=
-  points:
-  - Cocktail in de bar voor 2 pers.
-  - 2 Overnachtingen incl. ontbijt
-  - '3-Gangen diner bij Restaurant Twelve voor 2 pers. '
 - title: Bilderberg Hotel de Buunderkamp
   location: Wolfheze
   tagline: ONGESTOORD GENIETEN
@@ -35,6 +17,15 @@
   - 2 Nachten incl. ontbijt voor 2 pers
   - 3-Gangendiner voor 2 pers
   - 4-Gangendiner voor 2 pers
+- title: 'Hampshire hotel Leiden '
+  location: Leiden
+  tagline: 'CULINAIR STADSARRANGEMENT '
+  image: "/GebouwHFLeidentussenpagina-4.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=499&country=1&la=2&autoLogin=true&actie=
+  points:
+  - Cocktail in de bar voor 2 pers.
+  - 2 Overnachtingen incl. ontbijt
+  - '3-Gangen diner bij Restaurant Twelve voor 2 pers. '
 - title: Thermae 2OOO
   location: Valkenburg aan de Geul
   tagline: WELLNESSCENTRUM MET 4-STERRENHOTEL
@@ -44,15 +35,6 @@
   - 2 Nachten incl. ontbijt voor 2 pers
   - 3 Dagen gebruik van Wellness
   - 60.000m2 Wellness (binnen en buiten)
-- title: Hampshire Paping en Spa
-  location: Ommen
-  tagline: SPA & WELLNESS HOTEL
-  image: "/Papingspa.jpg"
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=350&country=1&la=2&autoLogin=true&actie=
-  points:
-  - 2 Nachten incl. ontbijt voor 2 pers
-  - 3-Gangendiner voor 2 pers
-  - Gebruik van Wellness
 - title: Bilderberg Europa Hotel
   location: Scheveningen
   tagline: WAKKER WORDEN AAN ZEE
@@ -61,6 +43,24 @@
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
   - Late check-out
+  - Gebruik van Wellness
+- title: Grand hotel Ter Duin
+  location: Burgh-Haamstede
+  tagline: CULINAIR AAN HET STRAND
+  image: "/Terduintussenpagina.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=432&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2 Nachten incl. ontbijt
+  - 3-Gangen diner voor 2 pers.
+  - Toegang tot de luxe Spa en Wellness
+- title: Hampshire Paping en Spa
+  location: Ommen
+  tagline: SPA & WELLNESS HOTEL
+  image: "/Papingspa.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=350&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2 Nachten incl. ontbijt voor 2 pers
+  - 3-Gangendiner voor 2 pers
   - Gebruik van Wellness
 - title: Post-Plaza Hotel & Grand Café
   location: Leeuwarden
