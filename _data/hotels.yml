@@ -1,4 +1,13 @@
 ---
+- title: 'Hampshire hotel Leiden '
+  location: Leiden
+  tagline: 'CULINAIR STADSARRANGEMENT '
+  image: "/uploads/2017/03/10/Gebouw HF Leiden - tussenpagina.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=499&country=1&la=2&autoLogin=true&actie=
+  points:
+  - Cocktail in de bar voor 2 pers.
+  - 2 Overnachtingen incl. ontbijt
+  - '3-Gangen diner bij Restaurant Twelve voor 2 pers. '
 - title: Bilderberg Hotel de Buunderkamp
   location: Wolfheze
   tagline: ONGESTOORD GENIETEN
@@ -26,15 +35,6 @@
   - 2 Nachten incl. ontbijt voor 2 pers
   - 3 Dagen gebruik van Wellness
   - 60.000m2 Wellness (binnen en buiten)
-- title: Grand Hotel Amrâth Kurhaus
-  location: Scheveningen
-  tagline: WAKKER WORDEN AAN ZEE
-  image: Kurhaus.jpg
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=235&country=1&la=2&autoLogin=true&actie=
-  points:
-  - 1 Nacht incl. ontbijt voor 2 pers
-  - 3-Gangendiner voor 2 pers
-  - Late check-out
 - title: Hampshire Paping en Spa
   location: Ommen
   tagline: SPA & WELLNESS HOTEL
@@ -80,12 +80,3 @@
   - 2 Nachten incl. ontbijt voor 2 pers
   - Gebruik van Fitness en Sauna
   - Naast Antwerpen CS
-- title: Huis ten Wolde
-  location: De Bult
-  tagline: ART & WELLNESS HOTEL
-  image: Huis-ten-wolde.jpg
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=448&country=1&la=2&autoLogin=true&actie=
-  points:
-  - 3 Nachten incl. ontbijt voor 2 pers
-  - Facial of Massage voor 2 pers
-  - Gebruik van Wellness
