@@ -2,7 +2,7 @@
 - title: 'Hampshire hotel Leiden '
   location: Leiden
   tagline: 'CULINAIR STADSARRANGEMENT '
-  image: "/GebouwHFLeidentussenpagina-3.jpg"
+  image: "/GebouwHFLeidentussenpagina-4.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=499&country=1&la=2&autoLogin=true&actie=
   points:
   - Cocktail in de bar voor 2 pers.
@@ -11,7 +11,7 @@
 - title: Bilderberg Hotel de Buunderkamp
   location: Wolfheze
   tagline: ONGESTOORD GENIETEN
-  image: /Buunderkamp.jpg
+  image: "/Buunderkamp.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=430&country=1&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
@@ -20,7 +20,7 @@
 - title: Herberg de Gouden Leeuw
   location: Bronkhorst
   tagline: OVERNACHT IN NL'S KLEINSTE STADJE
-  image: /goudenleeuw.jpg
+  image: "/goudenleeuw.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=385&country=1&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
@@ -29,7 +29,7 @@
 - title: Thermae 2OOO
   location: Valkenburg aan de Geul
   tagline: WELLNESSCENTRUM MET 4-STERRENHOTEL
-  image: /Thermea2000.jpg
+  image: "/Thermea2000.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=127&country=1&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
@@ -38,7 +38,7 @@
 - title: Hampshire Paping en Spa
   location: Ommen
   tagline: SPA & WELLNESS HOTEL
-  image: /Papingspa.jpg
+  image: "/Papingspa.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=350&country=1&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
@@ -47,7 +47,7 @@
 - title: Bilderberg Europa Hotel
   location: Scheveningen
   tagline: WAKKER WORDEN AAN ZEE
-  image: /Europahotel.jpg
+  image: "/Europahotel.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=465&country=1&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
@@ -56,7 +56,7 @@
 - title: Post-Plaza Hotel & Grand Café
   location: Leeuwarden
   tagline: HIP HOTEL IN HISTORISCH LEEUWARDEN
-  image: /Post-plaza.jpg
+  image: "/Post-plaza.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=207&country=1&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
@@ -65,7 +65,7 @@
 - title: Hampshire Hotel Zuid-Drenthe
   location: Erica
   tagline: WEGDROMEN IN DRENTHE
-  image: /hampshire-hotel-zuid.jpg
+  image: "/hampshire-hotel-zuid.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=203&country=1&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
@@ -74,7 +74,7 @@
 - title: Lindner Hotel & City Lounge
   location: Antwerpen (BE)
   tagline: 4-STERREN HOTEL IN HARTJE ANTWERPEN
-  image: /Lindner.jpg
+  image: "/Lindner.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=196&country=4&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
