@@ -1,4 +1,13 @@
 ---
+- title: Grand hotel Ter Duin
+  location: Burgh-Haamstede
+  tagline: CULINAIR AAN HET STRAND
+  image: "/Terduintussenpagina.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=432&country=1&la=2&autoLogin=true&actie=
+  points:
+  - 2 Nachten incl. ontbijt
+  - 3-Gangen diner voor 2 pers.
+  - Toegang tot de luxe Spa en Wellness
 - title: 'Hampshire hotel Leiden '
   location: Leiden
   tagline: 'CULINAIR STADSARRANGEMENT '
